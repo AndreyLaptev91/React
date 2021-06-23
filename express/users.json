@@ -1,0 +1,14 @@
+[
+  { "label": "React my frend...", "important": true, "like": false, "id": 1 },
+  { "label": "React my love...", "important": false, "like": false, "id": 2 },
+  { "label": "React my bitch...", "important": false, "like": false, "id": 3 },
+  { "label": "React my tears...", "important": false, "like": false, "id": 4 },
+  {
+    "label": "React my sadness...",
+    "important": false,
+    "like": false,
+    "id": 5
+  },
+  { "label": "React my pride...", "important": false, "like": false, "id": 6 },
+  { "label": "React my arsenal...", "important": false, "like": false, "id": 7 }
+]
